@@ -1,0 +1,11 @@
+@mixin has-hover() {
+  @media (hover: hover) and (pointer: fine) {
+    @content;
+  }
+}
+
+@mixin no-hover() {
+  @media (hover: none), (pointer: coarse), (pointer: none) {
+    @content;
+  }
+}

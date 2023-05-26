@@ -1,0 +1,121 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "full_name": "John Smith",
+      "email": "test1@test.com",
+      "password": "qweqweqwe123",
+      "avatar": null
+    },
+    {
+      "id": 5,
+      "full_name": "Margaret Jones",
+      "email": "test2@test.com",
+      "password": "qweqweqwe123",
+      "avatar": null
+    },
+    {
+      "id": 6,
+      "full_name": "Aretha Richards",
+      "email": "test3@qwe.com",
+      "password": "qweqweqwe123",
+      "avatar": "https://media.istockphoto.com/id/1413766112/photo/successful-mature-businessman-looking-at-camera-with-confidence.jpg?b=1&s=170667a&w=0&k=20&c=lrHSjzuqKIAC76-vpOhzR7pRsP38DGPWt7x7SOFbm0Q="
+    }
+  ],
+  "tasks": [
+    {
+      "id": 12,
+      "title": "Cleaning",
+      "creation_date": "2023-04-22T11:23:45.603Z",
+      "due_date": "2023-05-18T23:59:59.000Z",
+      "note": null,
+      "list_id": 31,
+      "important": false,
+      "completed": true
+    },
+    {
+      "id": 17,
+      "title": "To do laundry",
+      "creation_date": "2023-04-17T20:13:56.603Z",
+      "due_date": "2023-05-31T23:59:59.000Z",
+      "note": "Wash bedroom linen separately",
+      "list_id": 31,
+      "important": false,
+      "completed": true
+    },
+    {
+      "id": 21,
+      "title": "To arrange a weekly meeting with the team",
+      "creation_date": "2023-04-17T14:44:32.603Z",
+      "due_date": "2023-05-17T23:59:59.000Z",
+      "note": "qweweqweweqwe",
+      "list_id": 45,
+      "important": false,
+      "completed": false
+    },
+    {
+      "id": 29,
+      "title": "To talk with my boss",
+      "creation_date": "2023-04-17T12:48:51.603Z",
+      "due_date": "2023-05-17T23:59:59.000Z",
+      "note": "Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation Bring up the topic of a summer vacation ",
+      "list_id": 45,
+      "important": true,
+      "completed": true
+    },
+    {
+      "id": 36,
+      "title": "To find a vacation place",
+      "creation_date": "2023-04-17T03:19:32.603Z",
+      "due_date": "2023-05-18T23:59:59.000Z",
+      "note": "Should have a sea/ocean as near as possible, 4+ stars all inclusive hotels.Should have a sea/ocean as near as possible, 4+ stars all inclusive hotels.Should have a sea/ocean as near as possible, 4+ stars all inclusive hotels.Should have a sea/ocean as near as possible, 4+ stars all inclusive hotels.Should have a sea/ocean as near as possible, 4+ stars all inclusive hotels.Should have a sea/ocean as near as possible, 4+ stars all inclusive hotels.Should have a sea/ocean as near as possible, 4+ stars all inclusive hotels.Should have a sea/ocean as near as possible, 4+ stars all inclusive hotels.",
+      "list_id": null,
+      "important": true,
+      "completed": false
+    },
+    {
+      "id": 38,
+      "title": "To register with a dentist",
+      "creation_date": "2023-04-17T05:26:23.603Z",
+      "due_date": "2023-05-17T23:59:59.000Z",
+      "note": null,
+      "list_id": null,
+      "important": true,
+      "completed": false
+    },
+    {
+      "id": 39,
+      "title": "Water the flowers",
+      "creation_date": "2023-04-28T13:57:51.603Z",
+      "due_date": "2023-06-08T23:59:59.000Z",
+      "note": "Except for cactuses",
+      "list_id": 31,
+      "important": false,
+      "completed": false
+    },
+    {
+      "id": 40,
+      "title": "qwe",
+      "creation_date": "2023-05-15T18:50:09.293Z",
+      "due_date": null,
+      "note": null,
+      "list_id": null,
+      "important": false,
+      "completed": false
+    }
+  ],
+  "taskLists": [
+    {
+      "id": 31,
+      "name": "House"
+    },
+    {
+      "id": 45,
+      "name": "Work"
+    },
+    {
+      "id": 57,
+      "name": "Art"
+    }
+  ]
+}
